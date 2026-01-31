@@ -18,14 +18,18 @@ Para ejecutar este proyecto, necesitas instalar las librerías necesarias:
 pip install Pillow
 # Instalación del conector de base de datos
 pip install mysql-connector-python
-
+```
 ## IMAGENES DEL EVENTO
-<img width="1600" height="901" alt="image" src="https://github.com/user-attachments/assets/64766984-1b61-433e-ac1b-bc56af78a935" />
+<img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/7c61a118-f40f-428f-804c-1bb4a4b3ccf6" />
+<img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/10c14562-1fb8-447f-be74-057591b9ac35" />
+<img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/4b15b644-0dd2-4f6e-b553-1884cc0b6b46" />
+<img width="400" height="310" alt="image" src="https://github.com/user-attachments/assets/82759620-1b67-4e14-ad56-4054bb750ce4" />
 
-<img width="1600" height="901" alt="image" src="https://github.com/user-attachments/assets/d6c49e6e-4789-4d89-ad09-6bcd555dcf0f" />
-
-<img width="1156" height="651" alt="image" src="https://github.com/user-attachments/assets/3bebdb5d-35ad-410f-92af-d5e5a22cf1d8" />
-
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/12a74f6e-6ae5-425a-bd20-b7fcd16ea13b" />
+## 👥 Créditos y Colaboración
+Este proyecto fue un esfuerzo colaborativo:
+- **Derek Cerecedo García ([Derkpy](https://github.com/Derkpy))**: Desarrollo completo de la aplicación (Python), lógica de negocio, diseño de interfaz.
+- **Luis Felipe Avila Cruz**: Diseño y arquitectura de la base de datos SQL.
+---
+*Desarrollado originalmente como parte de un proyecto universitario para la carrera de ISC del instituto tecnologico superior de escárcega.*
 
 
